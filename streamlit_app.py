@@ -8,15 +8,7 @@ import os
 import cv2
 import numpy as np
 from datetime import datetime
-streamlit
-stripe
-pandas
-matplotlib
-fpdf
-opencv-python
-numpy
-import cv2
-pip install stripe
+
 
 # --- CONFIGURACIÓN DE LA PÁGINA ---
 st.set_page_config(
