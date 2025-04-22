@@ -1,6 +1,3 @@
-# App-Oscar-profesional-sst
-#Detección de objetos y evaluación de riesgos
-# streamlit_app.py
 import streamlit as st
 import pandas as pd
 import stripe
