@@ -6,3 +6,4 @@ fpdf
 opencv-python
 numpy
 import cv2
+pip install stripe
